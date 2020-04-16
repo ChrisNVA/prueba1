@@ -7,6 +7,7 @@ public class Prueba01_Test {
 	public void prueba01() {
 		System.out.println("------->>>>>>>>>>              Prueba 001             <<<<<<<<<<<<<<<<------------------");
 		System.out.println("------->>>>>>>>>>              Prueba 002             <<<<<<<<<<<<<<<<------------------");
+		System.out.println("------->>>>>>>>>>              Prueba 003             <<<<<<<<<<<<<<<<------------------");
 		
 	}
 }
